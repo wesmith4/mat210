@@ -1,4 +1,4 @@
-,Rank_2019,Change over 5 years (2014)​[2],Country or Territory,HDI_2019,HDI_growth
+,Rank_2019,Change over 5 years (2014)​[2],Country or Territory,HDI_2019,HDI_growth_perc
 1,1,,Norway,0.957,0.2
 2,2,(7),Ireland,0.955,0.65
 3,2,,Switzerland,0.955,0.16
@@ -115,6 +115,7 @@
 115,114,(2),South Africa,0.709,0.73
 116,115,(6),Palestine,0.708,0.38
 117,116,(1),Egypt,0.707,0.63
+118,117,NA[a],Marshall Islands,0.704,0.0
 119,117,(1),Vietnam,0.704,0.7
 120,119,,Gabon,0.703,0.84
 122,120,(4),Kyrgyzstan,0.697,0.57
