@@ -11,6 +11,14 @@ import numpy as np
 from matplotlib import pyplot as plt
 import streamlit as st
 
+pageContainer = st.beta_container()
+with pageContainer:
+    left_col, right_col = st.beta_columns(2)
+
+with left_col:
+    main = st.beta_container()
+    main.title('Measuring the Madness')
+    main.write("Looking at the average seeds of teams that have made the second round.")
 
 # %%
 def getWinners(round):
@@ -75,7 +83,7 @@ p = np.poly1d(z)
 ax.plot(stats.index,p(stats.index),"r--")
 plt.title('Average Seed of 2nd Round Teams')
 
-st.pyplot(fig)
+main.pyplot(fig)
 
 # %%
 sortByMean = stats.sort_values(by='avg_seed',ascending=False).head()
@@ -86,7 +94,10 @@ sortByVar = stats.sort_values(by='variance',ascending=False).head()
 
 
 # %%
+with right_col:
+    sideContainer = st.beta_container()
+    sideContainer.dataframe(stats)
 
-sortByMean
-sortByVar
+# sortByMean
+# sortByVar
 
