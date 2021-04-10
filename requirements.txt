@@ -1,5 +1,5 @@
-beautifulsoup4==4.9.3
-matplotlib==3.3.4
-numpy==1.20.1
+matplotlib==3.4.1
+numpy==1.20.2
 pandas==1.2.3
-streamlit==0.79.0
+plotly==4.14.3
+streamlit==0.80.0
