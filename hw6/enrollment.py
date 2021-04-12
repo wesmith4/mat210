@@ -37,6 +37,12 @@ def app():
     print(np.linalg.matrix_power(A, 400)@v0)
 
     # # Problem 4
+    
+    st.markdown("## New transition matrix like Leslie matrix")
+    st.latex(r'''
+    \mathbf{A} = \begin{bmatrix}.15 & .80\beta & 0 & 0 \\ .60 & .15 & 0 & 0 \\ 0 & 0 & 1 & 0 \\ .25 & .05 & 0 & 1 \end{bmatrix}
+    ''')
+    
     beta = 1.505
     beta = st.slider(label="Beta",min_value=1.0,max_value=2.0,value=1.505,step=.001,format="%f")
 
