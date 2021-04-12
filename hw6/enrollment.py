@@ -58,14 +58,16 @@ def app():
     populations = pd.DataFrame(populations)
     populations['Total'] = np.sum(populations, axis=1)
     populations = populations.rename(columns={0: 'Freshmen', 1: 'Sophomores'})
-    populations
+    populations['Year'] = populations.index
 
     populations['Freshmen (%)'] = populations['Freshmen']/populations['Total']*100
 
+    # Plotly bar chart
+    dat = populations[['Year','Freshmen','Sophomores']].melt(id_vars=['Year'],value_vars=['Freshmen','Sophomores'],var_name='Class',value_name='Students')
+    fig = px.bar(dat,x='Year',y='Students',color='Class',title="Enrollment by Class Year over Times")
+    fig.update_xaxes(tick0=0,dtick=5)
+    st.plotly_chart(fig)
 
-    st.bar_chart(populations[['Freshmen','Sophomores']])
-
-    st.line_chart(populations['Freshmen (%)'])
-
-    lastYear = populations.iloc[-1]
-    lastYear.Freshmen/lastYear.Total
+    # Plotly line chart
+    fig2 = px.line(populations,x='Year',y='Freshmen (%)',title="Freshmen share of Student Body")
+    st.plotly_chart(fig2)
