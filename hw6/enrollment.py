@@ -20,7 +20,7 @@ def app():
     st.latex(r'''
     \mathbf{A} = \begin{bmatrix}.15 & 0 & 0 & 0 \\ .60 & .15 & 0 & 0 \\ 0 & .80 & 1 & 0 \\ .25 & .05 & 0 & 1 \end{bmatrix}
     ''')
-
+    
     # ## Probability that a freshman will graduate
 
     # Set initial state
@@ -37,7 +37,6 @@ def app():
     print(np.linalg.matrix_power(A, 400)@v0)
 
     # # Problem 4
-
     beta = 1.505
     beta = st.slider(label="Beta",min_value=1.0,max_value=2.0,value=1.505,step=.001,format="%f")
 
@@ -66,8 +65,10 @@ def app():
     dat = populations[['Year','Freshmen','Sophomores']].melt(id_vars=['Year'],value_vars=['Freshmen','Sophomores'],var_name='Class',value_name='Students')
     fig = px.bar(dat,x='Year',y='Students',color='Class',title="Enrollment by Class Year over Times")
     fig.update_xaxes(tick0=0,dtick=5)
+    fig.update_layout(hovermode='x')
     st.plotly_chart(fig)
 
     # Plotly line chart
     fig2 = px.line(populations,x='Year',y='Freshmen (%)',title="Freshmen share of Student Body")
+    fig2.update_layout(hovermode='x')
     st.plotly_chart(fig2)
