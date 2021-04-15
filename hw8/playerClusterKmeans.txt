@@ -1,27 +1,184 @@
 
 Cluster 0
 
-John Collins
-Kristaps Porziņģis
-Nikola Vučević
-Nikola Vučević
-Christian Wood
+Keljin Blevins
+Bol Bol
+Marques Bolden
+Devontae Cacok
+Vlatko Čančar
+Devin Cannady
+Devon Dotson
+Cristiano Felício
+Trent Forrest
+Wenyen Gabriel
+Anthony Gill
+Rondae Hollis-Jefferson
+Ersan İlyasova
+Justin James
+Tre Jones
+Kelan Martin
+Patrick McCaw
+Alfonzo McKinnie
+Adam Mokoka
+Anžejs Pasečņiks
+Norvel Pelle
+Iman Shumpert
+Alen Smailagić
+Tyrell Terry
+Brodric Thomas
+Sindarius Thornwell
+Quinndary Weatherspoon
+Cassius Winston
 
 Cluster 1
 
+Reggie Bullock
+Kentavious Caldwell-Pope
+Seth Curry
+Jeff Green
+George Hill
+Danuel House
+Théo Maledon
+Monte Morris
+Ricky Rubio
+Garrett Temple
+
+Cluster 2
+
+Al-Farouq Aminu
+Nemanja Bjelica
+Isaac Bonga
+Torrey Craig
+Tim Frazier
+Brandon Goodwin
+Josh Hall
+Maurice Harkless
+Wesley Iwundu
+DaQuan Jeffries
+Mason Jones
+Kevin Knox
+Rodions Kurucs
+Anthony Lamb
+Romeo Langford
+Alex Len
+Rodney McGruder
+Nicolò Melli
+Aaron Nesmith
+Frank Ntilikina
+KZ Okpala
+Andre Roberson
+Justin Robinson
+Max Strus
+Obi Toppin
+Yuta Watanabe
+D.J. Wilson
+
+Cluster 3
+
+Jimmy Butler
+DeMar DeRozan
+Shai Gilgeous-Alexander
+Kawhi Leonard
+Ja Morant
+Pascal Siakam
+
+Cluster 4
+
+D.J. Augustin
+Aron Baynes
+Spencer Dinwiddie
+PJ Dozier
+JaMychal Green
+Blake Griffin
+Killian Hayes
+Talen Horton-Tucker
+Chandler Hutchison
+Tyus Jones
+Cory Joseph
+Terance Mann
+Frank Mason III
+Jordan McLaughlin
+De'Anthony Melton
+Markieff Morris
+Raul Neto
+Jaylen Nowell
+Dario Šarić
+Dennis Smith Jr.
+Xavier Tillman Sr.
+Brad Wanamaker
+Delon Wright
+
+Cluster 5
+
+Bojan Bogdanović
+Mike Conley
+Luguentz Dort
+Evan Fournier
+Eric Gordon
+Tim Hardaway Jr.
+Norman Powell
+Terrence Ross
+D'Angelo Russell
+Derrick White
+
+Cluster 6
+
+LaMelo Ball
+John Collins
+Aaron Gordon
+Rui Hachimura
+De'Andre Hunter
+Keldon Johnson
+Kelly Oubre Jr.
+
+Cluster 7
+
+Chris Boucher
+R.J. Hampton
+Serge Ibaka
+T.J. McConnell
+Paul Millsap
+Nerlens Noel
+David Nwaba
+Otto Porter
+Isaiah Roby
+Daniel Theis
+Daniel Theis
+
+Cluster 8
+
+Jarrett Allen
+Deandre Ayton
+Richaun Holmes
+
+Cluster 9
+
+Lonzo Ball
+Evan Fournier
+Devonte' Graham
+Danny Green
+Joe Harris
+Justin Holiday
+Duncan Robinson
+Gary Trent Jr.
+
+Cluster 10
+
 Precious Achiuwa
 Mo Bamba
+Tony Bradley
 Tyler Cook
 Ed Davis
 Drew Eubanks
 Daniel Gafford
 Freddie Gillespie
+Jaxson Hayes
 Alize Johnson
 Damian Jones
-Dwight Powell
+Tyrese Maxey
 Lamar Stevens
 
-Cluster 2
+Cluster 11
 
 Keita Bates-Diop
 Ignas Brazdeikis
@@ -35,29 +192,403 @@ Tacko Fall
 Bruno Fernando
 Javonte Green
 Kyle Guy
-Rondae Hollis-Jefferson
-Ersan İlyasova
-Justin James
 Damian Jones
 Nathan Knight
 Luke Kornet
 Rodions Kurucs
 Karim Mané
 Skylar Mays
-Patrick McCaw
-Alfonzo McKinnie
 Sam Merrill
-Anžejs Pasečņiks
 Paul Reed
 JaKarr Sampson
 Chris Silva
-Brodric Thomas
 Matt Thomas
 Axel Toupane
 Moritz Wagner
 Tremont Waters
 
-Cluster 3
+Cluster 12
+
+Willie Cauley-Stein
+Torrey Craig
+Jarrett Culver
+Gorgui Dieng
+Robert Franks
+Juan Hernangómez
+Frank Kaminsky
+Saben Lee
+Kevon Looney
+Trey Lyles
+Naji Marshall
+Nicolò Melli
+Abdel Nader
+Dwight Powell
+Glenn Robinson III
+Juan Toscano-Anderson
+Devin Vassell
+Moritz Wagner
+Dylan Windler
+
+Cluster 13
+
+Harrison Barnes
+RJ Barrett
+Tobias Harris
+Gordon Hayward
+Khris Middleton
+Dejounte Murray
+
+Cluster 14
+
+D.J. Augustin
+Avery Bradley
+Troy Brown Jr.
+Facundo Campazzo
+Alex Caruso
+Gary Clark
+Matthew Dellavedova
+Damyean Dotson
+Dante Exum
+Marc Gasol
+Maurice Harkless
+Solomon Hill
+Rodney Hood
+Andre Iguodala
+Wesley Iwundu
+Damian Jones
+Luke Kennard
+Damion Lee
+Garrison Mathews
+Wesley Matthews
+Semi Ojeleye
+Josh Okogie
+Justin Patton
+Payton Pritchard
+Chasson Randle
+Austin Rivers
+Mike Scott
+Tony Snell
+Matisse Thybulle
+Grant Williams
+
+Cluster 15
+
+Kyle Anderson
+Cole Anthony
+Miles Bridges
+Thomas Bryant
+Michael Carter-Williams
+Aaron Gordon
+James Johnson
+Victor Oladipo
+Cam Reddish
+Jae'Sean Tate
+Patrick Williams
+Delon Wright
+
+Cluster 16
+
+Nikola Jokić
+Julius Randle
+Domantas Sabonis
+Russell Westbrook
+
+Cluster 17
+
+Nickeil Alexander-Walker
+DeMarcus Cousins
+Henry Ellenson
+Yogi Ferrell
+Rudy Gay
+Jeremy Lamb
+Kevin Love
+Malik Monk
+Otto Porter
+Immanuel Quickley
+
+Cluster 18
+
+Grayson Allen
+Dāvis Bertāns
+Saddiq Bey
+Wayne Ellington
+Joe Ingles
+Ty Jerome
+Cameron Johnson
+Patty Mills
+Cedi Osman
+
+Cluster 19
+
+Steven Adams
+Jarrett Allen
+Wendell Carter Jr.
+Wendell Carter Jr.
+Enes Kanter
+Mason Plumlee
+Jakob Poeltl
+Mitchell Robinson
+
+Cluster 20
+
+Kostas Antetokounmpo
+Udoka Azubuike
+Tyler Bey
+Jarrell Brantley
+Vernon Carey Jr.
+Quinn Cook
+Tyler Cook
+Nate Darling
+Terrance Ferguson
+Jalen Harris
+Shaquille Harrison
+Nate Hinton
+Markus Howard
+Elijah Hughes
+Mason Jones
+Mfiondu Kabengele
+Rodions Kurucs
+Jalen Lecque
+Juwan Morgan
+Daniel Oturu
+Vincent Poirier
+Jontay Porter
+Jahmi'us Ramsey
+Nick Richards
+Grant Riller
+Jalen Smith
+Rayjon Tucker
+
+Cluster 21
+
+Carmelo Anthony
+Dwayne Bacon
+Jalen Brunson
+Gary Harris
+Josh Jackson
+Cory Joseph
+Shake Milton
+Derrick Rose
+Derrick Rose
+Lou Williams
+Lou Williams
+
+Cluster 22
+
+Giannis Antetokounmpo
+Joel Embiid
+
+Cluster 23
+
+Stephen Curry
+James Harden
+Damian Lillard
+Trae Young
+
+Cluster 24
+
+Jaylen Brown
+Paul George
+Jerami Grant
+Brandon Ingram
+Zach LaVine
+Donovan Mitchell
+Victor Oladipo
+John Wall
+
+Cluster 25
+
+Tony Bradley
+Nicolas Claxton
+Dwight Howard
+Isaiah Stewart
+Robert Williams
+
+Cluster 26
+
+Jordan Bell
+Marquese Chriss
+Derrick Favors
+Daniel Gafford
+Willy Hernangómez
+Alex Len
+JaVale McGee
+Eric Paschall
+Jarred Vanderbilt
+Hassan Whiteside
+
+Cluster 27
+
+Terence Davis
+Bryn Forbes
+Furkan Korkmaz
+Timothé Luwawu-Cabarrot
+Ben McLemore
+Ben McLemore
+Mike Muscala
+Sviatoslav Mykhailiuk
+Jordan Poole
+J.J. Redick
+Landry Shamet
+Anfernee Simons
+Denzel Valentine
+
+Cluster 28
+
+Bogdan Bogdanović
+Alec Burks
+Jordan Clarkson
+Donte DiVincenzo
+Goran Dragić
+Danilo Gallinari
+Brook Lopez
+Lauri Markkanen
+Doug McDermott
+Marcus Morris
+Kendrick Nunn
+Kelly Olynyk
+Lonnie Walker
+
+Cluster 29
+
+Moses Brown
+Andre Drummond
+Isaiah Hartenstein
+DeAndre Jordan
+Jusuf Nurkić
+Bobby Portis
+Tristan Thompson
+Cody Zeller
+Ivica Zubac
+
+Cluster 30
+
+Al-Farouq Aminu
+Khem Birch
+Khem Birch
+Bismack Biyombo
+Bruce Brown
+Hamidou Diallo
+Taj Gibson
+Jaylen Hoard
+Robin Lopez
+Kenyon Martin Jr.
+Naz Reid
+Ish Smith
+Kenrich Williams
+Justise Winslow
+
+Cluster 31
+
+Malcolm Brogdon
+Jamal Murray
+Victor Oladipo
+Fred VanVleet
+
+Cluster 32
+
+Dillon Brooks
+Anthony Edwards
+Darius Garland
+Tyler Herro
+Jrue Holiday
+Caris LeVert
+Chris Paul
+Kevin Porter Jr.
+Norman Powell
+Dennis Schröder
+Andrew Wiggins
+
+Cluster 33
+
+Ryan Arcidiacono
+Armoni Brooks
+Jevon Carter
+Chris Chiozza
+Carsen Edwards
+Langston Galloway
+Isaiah Joe
+Mfiondu Kabengele
+Meyers Leonard
+Sean McDermott
+Darius Miller
+Mychal Mulder
+Zeke Nnaji
+Jordan Nwora
+Miye Oni
+Luka Šamanić
+Dennis Smith Jr.
+Brodric Thomas
+Matt Thomas
+Killian Tillie
+Paul Watson
+D.J. Wilson
+
+Cluster 34
+
+Markelle Fultz
+Caris LeVert
+Elfrid Payton
+T.J. Warren
+
+Cluster 35
+
+Clint Capela
+Andre Drummond
+Rudy Gobert
+Jonas Valančiūnas
+
+Cluster 36
+
+Bradley Beal
+Devin Booker
+De'Aaron Fox
+Kyrie Irving
+Collin Sexton
+
+Cluster 37
+
+Kent Bazemore
+DeAndre' Bembry
+Nemanja Bjelica
+Aaron Holiday
+Rodney Hood
+Justin Jackson
+James Johnson
+Tyler Johnson
+Kira Lewis Jr.
+Cameron Payne
+Taurean Prince
+Jerome Robinson
+Rajon Rondo
+Jeff Teague
+Jeff Teague
+Isaiah Thomas
+Dean Wade
+Brad Wanamaker
+
+Cluster 38
+
+LaMarcus Aldridge
+LaMarcus Aldridge
+Marvin Bagley III
+Brandon Clarke
+Hamidou Diallo
+Montrezl Harrell
+James Wiseman
+Thaddeus Young
+
+Cluster 39
+
+Darius Bazley
+Al Horford
+Kyle Kuzma
+Kelly Olynyk
+Michael Porter Jr.
+Myles Turner
+P.J. Washington
+
+Cluster 40
 
 Trevor Ariza
 Deni Avdija
@@ -76,7 +607,7 @@ Aleksej Pokusevski
 Taurean Prince
 Tomáš Satoranský
 
-Cluster 4
+Cluster 41
 
 OG Anunoby
 Will Barton
@@ -86,226 +617,13 @@ Blake Griffin
 Tyrese Haliburton
 Gary Harris
 Kevin Huerter
+Larry Nance Jr.
 Isaac Okoro
 Josh Richardson
 Marcus Smart
+Coby White
 
-Cluster 5
-
-Bam Adebayo
-Jimmy Butler
-Anthony Davis
-DeMar DeRozan
-Zion Williamson
-
-Cluster 6
-
-Aron Baynes
-Kent Bazemore
-DeAndre' Bembry
-Nemanja Bjelica
-Troy Brown Jr.
-Torrey Craig
-Gorgui Dieng
-JaMychal Green
-Blake Griffin
-Juan Hernangómez
-Aaron Holiday
-Rodney Hood
-Wesley Iwundu
-Justin Jackson
-James Johnson
-Tyler Johnson
-Terance Mann
-Nicolò Melli
-Justin Patton
-Cameron Payne
-Taurean Prince
-Jerome Robinson
-Rajon Rondo
-Dario Šarić
-Jeff Teague
-Jeff Teague
-Juan Toscano-Anderson
-Denzel Valentine
-Devin Vassell
-Dean Wade
-Dylan Windler
-
-Cluster 7
-
-LaMarcus Aldridge
-Marvin Bagley III
-Thomas Bryant
-Wendell Carter Jr.
-Brandon Clarke
-Hamidou Diallo
-Montrezl Harrell
-Thaddeus Young
-
-Cluster 8
-
-RJ Barrett
-Tobias Harris
-Gordon Hayward
-Khris Middleton
-Ja Morant
-Dejounte Murray
-Ben Simmons
-
-Cluster 9
-
-Jaylen Adams
-Ty-Shon Alexander
-Brian Bowen
-Ignas Brazdeikis
-Oshae Brissett
-Vernon Carey Jr.
-Gary Clark
-Malik Fitts
-Ashton Hagans
-Jared Harper
-Jalen Harris
-Shaquille Harrison
-Markus Howard
-DaQuan Jeffries
-Rodions Kurucs
-Will Magnay
-Gary Payton II
-Norvel Pelle
-Theo Pinson
-Jahmi'us Ramsey
-Cameron Reynolds
-Chris Silva
-Deividas Sirvydis
-Cassius Stanley
-Noah Vonleh
-Greg Whittington
-Robert Woodard
-
-Cluster 10
-
-Carmelo Anthony
-Alec Burks
-Jordan Clarkson
-Goran Dragić
-Danilo Gallinari
-George Hill
-Doug McDermott
-Marcus Morris
-Cedi Osman
-Lonnie Walker
-
-Cluster 11
-
-Al-Farouq Aminu
-Nemanja Bjelica
-Jordan Bone
-Troy Brown Jr.
-Sekou Doumbouya
-Robert Franks
-Brandon Goodwin
-Javonte Green
-Josh Hall
-Wesley Iwundu
-DaQuan Jeffries
-Stanley Johnson
-Mason Jones
-Kevin Knox
-John Konchar
-Luke Kornet
-Anthony Lamb
-Romeo Langford
-Nassir Little
-Rodney McGruder
-Aaron Nesmith
-Georges Niang
-Frank Ntilikina
-KZ Okpala
-Patrick Patterson
-Andre Roberson
-Justin Robinson
-Max Strus
-Obi Toppin
-P.J. Tucker
-Gabe Vincent
-Yuta Watanabe
-D.J. Wilson
-
-Cluster 12
-
-Chris Boucher
-Bruce Brown
-Hamidou Diallo
-R.J. Hampton
-Jaylen Hoard
-Serge Ibaka
-Paul Millsap
-David Nwaba
-Otto Porter
-Bobby Portis
-Isaiah Roby
-Daniel Theis
-Daniel Theis
-Justise Winslow
-James Wiseman
-
-Cluster 13
-
-Gary Harris
-Cory Joseph
-Shake Milton
-Derrick Rose
-Derrick Rose
-Lou Williams
-Lou Williams
-
-Cluster 14
-
-Deandre Ayton
-Clint Capela
-Andre Drummond
-Jonas Valančiūnas
-
-Cluster 15
-
-Harrison Barnes
-Buddy Hield
-Kyle Lowry
-Fred VanVleet
-
-Cluster 16
-
-Lonzo Ball
-Evan Fournier
-Devonte' Graham
-Joe Harris
-Justin Holiday
-Duncan Robinson
-Gary Trent Jr.
-
-Cluster 17
-
-Jerami Grant
-Brandon Ingram
-Zach LaVine
-Donovan Mitchell
-
-Cluster 18
-
-Jordan Bell
-Tony Bradley
-Willie Cauley-Stein
-Marquese Chriss
-Derrick Favors
-Jaxson Hayes
-Willy Hernangómez
-Dwight Howard
-Alex Len
-Kevon Looney
-Jarred Vanderbilt
-
-Cluster 19
+Cluster 42
 
 Thanasis Antetokounmpo
 Goga Bitadze
@@ -315,7 +633,6 @@ Josh Green
 R.J. Hampton
 Isaiah Hartenstein
 Chandler Hutchison
-Rodions Kurucs
 Thon Maker
 Boban Marjanović
 JaVale McGee
@@ -327,367 +644,12 @@ Norvel Pelle
 Reggie Perry
 Ray Spalding
 
-Cluster 20
-
-D.J. Augustin
-Terence Davis
-Damyean Dotson
-Bryn Forbes
-Furkan Korkmaz
-Timothé Luwawu-Cabarrot
-Ben McLemore
-Ben McLemore
-Mike Muscala
-Sviatoslav Mykhailiuk
-Jordan Poole
-J.J. Redick
-Landry Shamet
-Anfernee Simons
-
-Cluster 21
-
-Steven Adams
-Mason Plumlee
-Jakob Poeltl
-Mitchell Robinson
-
-Cluster 22
-
-Bojan Bogdanović
-Mike Conley
-Seth Curry
-Luguentz Dort
-Eric Gordon
-Tim Hardaway Jr.
-Lauri Markkanen
-Kendrick Nunn
-Cam Reddish
-Coby White
-Derrick White
-
-Cluster 23
-
-Malik Beasley
-CJ McCollum
-Terry Rozier
-Gary Trent Jr.
-Kemba Walker
-
-Cluster 24
-
-Avery Bradley
-Alex Caruso
-Matthew Dellavedova
-Spencer Dinwiddie
-PJ Dozier
-Killian Hayes
-Talen Horton-Tucker
-Chandler Hutchison
-Tyus Jones
-Cory Joseph
-Frank Mason III
-Jordan McLaughlin
-Raul Neto
-Jaylen Nowell
-Josh Okogie
-Austin Rivers
-Dennis Smith Jr.
-Ish Smith
-Brad Wanamaker
-Delon Wright
-
-Cluster 25
-
-Kostas Antetokounmpo
-Udoka Azubuike
-Tyler Bey
-Keljin Blevins
-Bol Bol
-Marques Bolden
-Jarrell Brantley
-Devontae Cacok
-Vlatko Čančar
-Devin Cannady
-Quinn Cook
-Tyler Cook
-Nate Darling
-Devon Dotson
-Cristiano Felício
-Terrance Ferguson
-Trent Forrest
-Wenyen Gabriel
-Anthony Gill
-Nate Hinton
-Elijah Hughes
-Mason Jones
-Tre Jones
-Mfiondu Kabengele
-Jalen Lecque
-Kelan Martin
-Adam Mokoka
-Juwan Morgan
-Daniel Oturu
-Norvel Pelle
-Vincent Poirier
-Jontay Porter
-Nick Richards
-Grant Riller
-Iman Shumpert
-Alen Smailagić
-Jalen Smith
-Tyrell Terry
-Sindarius Thornwell
-Rayjon Tucker
-Quinndary Weatherspoon
-Cassius Winston
-
-Cluster 26
-
-Robert Covington
-Dorian Finney-Smith
-Royce O'Neale
-P.J. Tucker
-
-Cluster 27
-
-Darius Bazley
-Aaron Gordon
-Kelly Olynyk
-Michael Porter Jr.
-
-Cluster 28
-
-Ryan Arcidiacono
-Isaac Bonga
-Armoni Brooks
-Jevon Carter
-Chris Chiozza
-Torrey Craig
-Carsen Edwards
-Tim Frazier
-Langston Galloway
-Maurice Harkless
-Isaiah Joe
-Mfiondu Kabengele
-Alex Len
-Meyers Leonard
-Sean McDermott
-Nicolò Melli
-Darius Miller
-Mychal Mulder
-Zeke Nnaji
-Jordan Nwora
-Miye Oni
-Luka Šamanić
-Dennis Smith Jr.
-Brodric Thomas
-Matt Thomas
-Killian Tillie
-Paul Watson
-D.J. Wilson
-
-Cluster 29
-
-Nicolas Batum
-Bogdan Bogdanović
-Reggie Bullock
-Kentavious Caldwell-Pope
-Jae Crowder
-Donte DiVincenzo
-Danny Green
-Jeff Green
-Danuel House
-Joe Ingles
-Maxi Kleber
-Brook Lopez
-Théo Maledon
-Kelly Olynyk
-Garrett Temple
-
-Cluster 30
-
-LaMarcus Aldridge
-Cole Anthony
-Dwayne Bacon
-Jalen Brunson
-Michael Carter-Williams
-Aaron Gordon
-Josh Jackson
-James Johnson
-T.J. McConnell
-Monte Morris
-Ricky Rubio
-
-Cluster 31
-
-Nikola Jokić
-Julius Randle
-Domantas Sabonis
-Russell Westbrook
-
-Cluster 32
-
-Bradley Beal
-Devin Booker
-De'Aaron Fox
-Collin Sexton
-
-Cluster 33
-
-Tony Bradley
-Moses Brown
-Andre Drummond
-Isaiah Hartenstein
-DeAndre Jordan
-Jusuf Nurkić
-Tristan Thompson
-Cody Zeller
-Ivica Zubac
-
-Cluster 34
-
-Stephen Curry
-James Harden
-Damian Lillard
-
-Cluster 35
-
-Markelle Fultz
-Elfrid Payton
-T.J. Warren
-
-Cluster 36
-
-Malcolm Brogdon
-Jaylen Brown
-Paul George
-Kyrie Irving
-Jamal Murray
-Victor Oladipo
-Victor Oladipo
-John Wall
-
-Cluster 37
-
-Trey Burke
-Quinn Cook
-Jarrett Culver
-Terence Davis
-Malachi Flynn
-Frank Jackson
-Frank Kaminsky
-Jake Layman
-Saben Lee
-Kira Lewis Jr.
-Trey Lyles
-Nico Mannion
-Naji Marshall
-Caleb Martin
-Cody Martin
-Dakota Mathias
-Tyrese Maxey
-Jalen McDaniels
-E'Twaun Moore
-Abdel Nader
-J.J. Redick
-Glenn Robinson III
-Rajon Rondo
-Edmond Sumner
-Isaiah Thomas
-Moritz Wagner
-Brad Wanamaker
-
-Cluster 38
-
-Jarrett Allen
-Jarrett Allen
-Wendell Carter Jr.
-Rudy Gobert
-Richaun Holmes
-Enes Kanter
-
-Cluster 39
-
-Kyle Anderson
-Miles Bridges
-Draymond Green
-Josh Hart
-Al Horford
-Keldon Johnson
-Kyle Kuzma
-Larry Nance Jr.
-Jae'Sean Tate
-Myles Turner
-P.J. Washington
-Patrick Williams
-Delon Wright
-
-Cluster 40
-
-Al-Farouq Aminu
-Khem Birch
-Khem Birch
-Bismack Biyombo
-Taj Gibson
-Robin Lopez
-Kenyon Martin Jr.
-Nerlens Noel
-Naz Reid
-Isaiah Stewart
-Xavier Tillman Sr.
-Kenrich Williams
-Robert Williams
-
-Cluster 41
-
-LaMelo Ball
-Dillon Brooks
-Evan Fournier
-Caris LeVert
-Victor Oladipo
-Norman Powell
-Terrence Ross
-D'Angelo Russell
-
-Cluster 42
-
-D.J. Augustin
-Facundo Campazzo
-Gary Clark
-Dante Exum
-Marc Gasol
-Maurice Harkless
-Solomon Hill
-Rodney Hood
-Andre Iguodala
-Damian Jones
-Luke Kennard
-Damion Lee
-Garrison Mathews
-Wesley Matthews
-Semi Ojeleye
-Payton Pritchard
-Chasson Randle
-Mike Scott
-Tony Snell
-Matisse Thybulle
-Grant Williams
-
 Cluster 43
 
-Anthony Edwards
-Darius Garland
-Rui Hachimura
-Tyler Herro
-Jrue Holiday
-De'Andre Hunter
-Caris LeVert
-Kelly Oubre Jr.
-Chris Paul
-Kevin Porter Jr.
-Norman Powell
-Dennis Schröder
-Andrew Wiggins
+Bam Adebayo
+Anthony Davis
+Ben Simmons
+Zion Williamson
 
 Cluster 44
 
@@ -695,50 +657,88 @@ Luka Dončić
 Kevin Durant
 James Harden
 LeBron James
-Kawhi Leonard
-Pascal Siakam
 Jayson Tatum
 Karl-Anthony Towns
 
 Cluster 45
 
-Nicolas Claxton
-Daniel Gafford
-JaVale McGee
-Eric Paschall
-Hassan Whiteside
+Kristaps Porziņģis
+Nikola Vučević
+Nikola Vučević
+Christian Wood
 
 Cluster 46
 
-Nickeil Alexander-Walker
-DeMarcus Cousins
-Henry Ellenson
-Yogi Ferrell
-Rudy Gay
-Jeremy Lamb
-Kevin Love
-De'Anthony Melton
-Malik Monk
-Markieff Morris
-Otto Porter
-Immanuel Quickley
+Jordan Bone
+Troy Brown Jr.
+Trey Burke
+Quinn Cook
+Terence Davis
+Sekou Doumbouya
+Malachi Flynn
+Javonte Green
+Frank Jackson
+Stanley Johnson
+John Konchar
+Luke Kornet
+Jake Layman
+Nassir Little
+Nico Mannion
+Caleb Martin
+Cody Martin
+Dakota Mathias
+Jalen McDaniels
+E'Twaun Moore
+Georges Niang
+Patrick Patterson
+J.J. Redick
+Rajon Rondo
+Edmond Sumner
+P.J. Tucker
+Gabe Vincent
 
 Cluster 47
 
-Grayson Allen
-Dāvis Bertāns
-Saddiq Bey
-Wayne Ellington
-Ty Jerome
-Cameron Johnson
-Patty Mills
+Jaylen Adams
+Ty-Shon Alexander
+Brian Bowen
+Ignas Brazdeikis
+Oshae Brissett
+Gary Clark
+Malik Fitts
+Ashton Hagans
+Jared Harper
+DaQuan Jeffries
+Will Magnay
+Gary Payton II
+Norvel Pelle
+Theo Pinson
+Cameron Reynolds
+Chris Silva
+Deividas Sirvydis
+Cassius Stanley
+Noah Vonleh
+Greg Whittington
+Robert Woodard
 
 Cluster 48
 
-Giannis Antetokounmpo
-Joel Embiid
+Nicolas Batum
+Robert Covington
+Jae Crowder
+Dorian Finney-Smith
+Draymond Green
+Josh Hart
+Maxi Kleber
+Royce O'Neale
+P.J. Tucker
 
 Cluster 49
 
-Shai Gilgeous-Alexander
-Trae Young
+Malik Beasley
+Buddy Hield
+Kyle Lowry
+CJ McCollum
+Terry Rozier
+Gary Trent Jr.
+Kemba Walker
