@@ -28,7 +28,7 @@ def app():
     data = df[['MP','2PA','2P','3PA','3P','FTA','FT','TRB','STL','BLK','TOV']]
 
     numberOfClusters = 50
-    kmeansCluster = KMeans(n_clusters=numberOfClusters,random_state=0)
+    kmeansCluster = KMeans(n_clusters=numberOfClusters,random_state=42)
     kmeansCluster.fit(data)
 
     yourPlayer = st.selectbox('Select a Player',options=df['Player'],index=128)
