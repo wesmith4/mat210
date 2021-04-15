@@ -5,51 +5,45 @@
 import pandas as pd
 import numpy as np
 import streamlit as st
+from sklearn.cluster import KMeans
+import os
+
 
 def app():
     st.title("NBA Player Clustering")
     st.write("See how your favorite NBA players fit into clusters according to their shooting, rebounds, steals, blocks, and minutes played.")
 
-    dataFile = "hw8/perGameStats.txt"
+    dataFile = os.path.join(os.path.dirname(__file__),'perGameStats.csv')
     df = pd.read_csv(dataFile)
-    df.to_csv('{}.csv'.format(dataFile.split('.')[0]))
     df[['Player','handle']] = df['Player'].str.split('\\',expand=True)
     df = df[df['Tm'] != 'TOT']
     df = df.reset_index(drop=True)
+
+    for index,row in df.iterrows():
+        if len(np.where(df['Player'] == row['Player'])[0]) > 1:
+            for ind in np.where(df['Player'] == row['Player'])[0]:
+                df.loc[ind,'Player'] = '{} ({})'.format(df.loc[ind,'Player'], df.loc[ind,'Tm'])
 
     # Select desired fields
     data = df[['MP','2PA','2P','3PA','3P','FTA','FT','TRB','STL','BLK','TOV']]
 
     numberOfClusters = 50
-    from sklearn.cluster import KMeans
-    kmeansCluster = KMeans(n_clusters=numberOfClusters)
+    kmeansCluster = KMeans(n_clusters=numberOfClusters,random_state=0)
     kmeansCluster.fit(data)
 
-
-    # import sys
-    # original_stdout = sys.stdout
-
-    # with open('playerClusterKmeans.txt', 'w') as f: 
-    #    sys.stdout = f
-    #    # Output the clusters
-    #    for i in range(numberOfClusters):
-    #        index = np.where(kmeansCluster.labels_ == i)[0]
-    #        print('\nCluster %d\n' % i)
-    #        for j in range(len(index)):
-    #            print(df['Player'][index[j]])
-    #    sys.stdout = original_stdout
-
-
-    yourPlayer = 'Stephen Curry'
     yourPlayer = st.selectbox('Select a Player',options=df['Player'],index=128)
+    
+    def getCluster(player):
+        indexOfYourPlayerInDataFrame = np.where(df['Player']==player)[0][0]
 
-    indexOfYourPlayerInDataFrame = np.where(df['Player']==yourPlayer)[0][0]
+        clusterOfPlayer = kmeansCluster.labels_[indexOfYourPlayerInDataFrame]
+        index = np.where(kmeansCluster.labels_ == clusterOfPlayer)[0]
+        return index,clusterOfPlayer,indexOfYourPlayerInDataFrame
+    
+    index,clusterNumber,playerIndex = getCluster(yourPlayer)
 
-    clusterOfPlayer = kmeansCluster.labels_[indexOfYourPlayerInDataFrame]
-    index = np.where(kmeansCluster.labels_ == clusterOfPlayer)[0]
-    st.write('\nk-means cluster')
-    st.write('===============')
-    for j in range(len(index)):
-        st.write(df['Player'][index[j]])
+    st.write("Here's the cluster:")
+    st.write(df.iloc[index])
 
-
+if __name__ == "__main__":
+    app()
