@@ -1,0 +1,744 @@
+
+Cluster 0
+
+John Collins
+Kristaps Porziņģis
+Nikola Vučević
+Nikola Vučević
+Christian Wood
+
+Cluster 1
+
+Precious Achiuwa
+Mo Bamba
+Tyler Cook
+Ed Davis
+Drew Eubanks
+Daniel Gafford
+Freddie Gillespie
+Alize Johnson
+Damian Jones
+Dwight Powell
+Lamar Stevens
+
+Cluster 2
+
+Keita Bates-Diop
+Ignas Brazdeikis
+Bruno Caboclo
+Amir Coffey
+DeMarcus Cousins
+Gorgui Dieng
+Jared Dudley
+CJ Elleby
+Tacko Fall
+Bruno Fernando
+Javonte Green
+Kyle Guy
+Rondae Hollis-Jefferson
+Ersan İlyasova
+Justin James
+Damian Jones
+Nathan Knight
+Luke Kornet
+Rodions Kurucs
+Karim Mané
+Skylar Mays
+Patrick McCaw
+Alfonzo McKinnie
+Sam Merrill
+Anžejs Pasečņiks
+Paul Reed
+JaKarr Sampson
+Chris Silva
+Brodric Thomas
+Matt Thomas
+Axel Toupane
+Moritz Wagner
+Tremont Waters
+
+Cluster 3
+
+Trevor Ariza
+Deni Avdija
+Desmond Bane
+Patrick Beverley
+Avery Bradley
+Sterling Brown
+Pat Connaughton
+James Ennis
+Reggie Jackson
+Derrick Jones Jr.
+Jaden McDaniels
+Sviatoslav Mykhailiuk
+Chuma Okeke
+Aleksej Pokusevski
+Taurean Prince
+Tomáš Satoranský
+
+Cluster 4
+
+OG Anunoby
+Will Barton
+Eric Bledsoe
+Mikal Bridges
+Blake Griffin
+Tyrese Haliburton
+Gary Harris
+Kevin Huerter
+Isaac Okoro
+Josh Richardson
+Marcus Smart
+
+Cluster 5
+
+Bam Adebayo
+Jimmy Butler
+Anthony Davis
+DeMar DeRozan
+Zion Williamson
+
+Cluster 6
+
+Aron Baynes
+Kent Bazemore
+DeAndre' Bembry
+Nemanja Bjelica
+Troy Brown Jr.
+Torrey Craig
+Gorgui Dieng
+JaMychal Green
+Blake Griffin
+Juan Hernangómez
+Aaron Holiday
+Rodney Hood
+Wesley Iwundu
+Justin Jackson
+James Johnson
+Tyler Johnson
+Terance Mann
+Nicolò Melli
+Justin Patton
+Cameron Payne
+Taurean Prince
+Jerome Robinson
+Rajon Rondo
+Dario Šarić
+Jeff Teague
+Jeff Teague
+Juan Toscano-Anderson
+Denzel Valentine
+Devin Vassell
+Dean Wade
+Dylan Windler
+
+Cluster 7
+
+LaMarcus Aldridge
+Marvin Bagley III
+Thomas Bryant
+Wendell Carter Jr.
+Brandon Clarke
+Hamidou Diallo
+Montrezl Harrell
+Thaddeus Young
+
+Cluster 8
+
+RJ Barrett
+Tobias Harris
+Gordon Hayward
+Khris Middleton
+Ja Morant
+Dejounte Murray
+Ben Simmons
+
+Cluster 9
+
+Jaylen Adams
+Ty-Shon Alexander
+Brian Bowen
+Ignas Brazdeikis
+Oshae Brissett
+Vernon Carey Jr.
+Gary Clark
+Malik Fitts
+Ashton Hagans
+Jared Harper
+Jalen Harris
+Shaquille Harrison
+Markus Howard
+DaQuan Jeffries
+Rodions Kurucs
+Will Magnay
+Gary Payton II
+Norvel Pelle
+Theo Pinson
+Jahmi'us Ramsey
+Cameron Reynolds
+Chris Silva
+Deividas Sirvydis
+Cassius Stanley
+Noah Vonleh
+Greg Whittington
+Robert Woodard
+
+Cluster 10
+
+Carmelo Anthony
+Alec Burks
+Jordan Clarkson
+Goran Dragić
+Danilo Gallinari
+George Hill
+Doug McDermott
+Marcus Morris
+Cedi Osman
+Lonnie Walker
+
+Cluster 11
+
+Al-Farouq Aminu
+Nemanja Bjelica
+Jordan Bone
+Troy Brown Jr.
+Sekou Doumbouya
+Robert Franks
+Brandon Goodwin
+Javonte Green
+Josh Hall
+Wesley Iwundu
+DaQuan Jeffries
+Stanley Johnson
+Mason Jones
+Kevin Knox
+John Konchar
+Luke Kornet
+Anthony Lamb
+Romeo Langford
+Nassir Little
+Rodney McGruder
+Aaron Nesmith
+Georges Niang
+Frank Ntilikina
+KZ Okpala
+Patrick Patterson
+Andre Roberson
+Justin Robinson
+Max Strus
+Obi Toppin
+P.J. Tucker
+Gabe Vincent
+Yuta Watanabe
+D.J. Wilson
+
+Cluster 12
+
+Chris Boucher
+Bruce Brown
+Hamidou Diallo
+R.J. Hampton
+Jaylen Hoard
+Serge Ibaka
+Paul Millsap
+David Nwaba
+Otto Porter
+Bobby Portis
+Isaiah Roby
+Daniel Theis
+Daniel Theis
+Justise Winslow
+James Wiseman
+
+Cluster 13
+
+Gary Harris
+Cory Joseph
+Shake Milton
+Derrick Rose
+Derrick Rose
+Lou Williams
+Lou Williams
+
+Cluster 14
+
+Deandre Ayton
+Clint Capela
+Andre Drummond
+Jonas Valančiūnas
+
+Cluster 15
+
+Harrison Barnes
+Buddy Hield
+Kyle Lowry
+Fred VanVleet
+
+Cluster 16
+
+Lonzo Ball
+Evan Fournier
+Devonte' Graham
+Joe Harris
+Justin Holiday
+Duncan Robinson
+Gary Trent Jr.
+
+Cluster 17
+
+Jerami Grant
+Brandon Ingram
+Zach LaVine
+Donovan Mitchell
+
+Cluster 18
+
+Jordan Bell
+Tony Bradley
+Willie Cauley-Stein
+Marquese Chriss
+Derrick Favors
+Jaxson Hayes
+Willy Hernangómez
+Dwight Howard
+Alex Len
+Kevon Looney
+Jarred Vanderbilt
+
+Cluster 19
+
+Thanasis Antetokounmpo
+Goga Bitadze
+Mamadi Diakite
+Harry Giles
+Josh Green
+R.J. Hampton
+Isaiah Hartenstein
+Chandler Hutchison
+Rodions Kurucs
+Thon Maker
+Boban Marjanović
+JaVale McGee
+Chimezie Metu
+Jahlil Okafor
+Onyeka Okongwu
+Jabari Parker
+Norvel Pelle
+Reggie Perry
+Ray Spalding
+
+Cluster 20
+
+D.J. Augustin
+Terence Davis
+Damyean Dotson
+Bryn Forbes
+Furkan Korkmaz
+Timothé Luwawu-Cabarrot
+Ben McLemore
+Ben McLemore
+Mike Muscala
+Sviatoslav Mykhailiuk
+Jordan Poole
+J.J. Redick
+Landry Shamet
+Anfernee Simons
+
+Cluster 21
+
+Steven Adams
+Mason Plumlee
+Jakob Poeltl
+Mitchell Robinson
+
+Cluster 22
+
+Bojan Bogdanović
+Mike Conley
+Seth Curry
+Luguentz Dort
+Eric Gordon
+Tim Hardaway Jr.
+Lauri Markkanen
+Kendrick Nunn
+Cam Reddish
+Coby White
+Derrick White
+
+Cluster 23
+
+Malik Beasley
+CJ McCollum
+Terry Rozier
+Gary Trent Jr.
+Kemba Walker
+
+Cluster 24
+
+Avery Bradley
+Alex Caruso
+Matthew Dellavedova
+Spencer Dinwiddie
+PJ Dozier
+Killian Hayes
+Talen Horton-Tucker
+Chandler Hutchison
+Tyus Jones
+Cory Joseph
+Frank Mason III
+Jordan McLaughlin
+Raul Neto
+Jaylen Nowell
+Josh Okogie
+Austin Rivers
+Dennis Smith Jr.
+Ish Smith
+Brad Wanamaker
+Delon Wright
+
+Cluster 25
+
+Kostas Antetokounmpo
+Udoka Azubuike
+Tyler Bey
+Keljin Blevins
+Bol Bol
+Marques Bolden
+Jarrell Brantley
+Devontae Cacok
+Vlatko Čančar
+Devin Cannady
+Quinn Cook
+Tyler Cook
+Nate Darling
+Devon Dotson
+Cristiano Felício
+Terrance Ferguson
+Trent Forrest
+Wenyen Gabriel
+Anthony Gill
+Nate Hinton
+Elijah Hughes
+Mason Jones
+Tre Jones
+Mfiondu Kabengele
+Jalen Lecque
+Kelan Martin
+Adam Mokoka
+Juwan Morgan
+Daniel Oturu
+Norvel Pelle
+Vincent Poirier
+Jontay Porter
+Nick Richards
+Grant Riller
+Iman Shumpert
+Alen Smailagić
+Jalen Smith
+Tyrell Terry
+Sindarius Thornwell
+Rayjon Tucker
+Quinndary Weatherspoon
+Cassius Winston
+
+Cluster 26
+
+Robert Covington
+Dorian Finney-Smith
+Royce O'Neale
+P.J. Tucker
+
+Cluster 27
+
+Darius Bazley
+Aaron Gordon
+Kelly Olynyk
+Michael Porter Jr.
+
+Cluster 28
+
+Ryan Arcidiacono
+Isaac Bonga
+Armoni Brooks
+Jevon Carter
+Chris Chiozza
+Torrey Craig
+Carsen Edwards
+Tim Frazier
+Langston Galloway
+Maurice Harkless
+Isaiah Joe
+Mfiondu Kabengele
+Alex Len
+Meyers Leonard
+Sean McDermott
+Nicolò Melli
+Darius Miller
+Mychal Mulder
+Zeke Nnaji
+Jordan Nwora
+Miye Oni
+Luka Šamanić
+Dennis Smith Jr.
+Brodric Thomas
+Matt Thomas
+Killian Tillie
+Paul Watson
+D.J. Wilson
+
+Cluster 29
+
+Nicolas Batum
+Bogdan Bogdanović
+Reggie Bullock
+Kentavious Caldwell-Pope
+Jae Crowder
+Donte DiVincenzo
+Danny Green
+Jeff Green
+Danuel House
+Joe Ingles
+Maxi Kleber
+Brook Lopez
+Théo Maledon
+Kelly Olynyk
+Garrett Temple
+
+Cluster 30
+
+LaMarcus Aldridge
+Cole Anthony
+Dwayne Bacon
+Jalen Brunson
+Michael Carter-Williams
+Aaron Gordon
+Josh Jackson
+James Johnson
+T.J. McConnell
+Monte Morris
+Ricky Rubio
+
+Cluster 31
+
+Nikola Jokić
+Julius Randle
+Domantas Sabonis
+Russell Westbrook
+
+Cluster 32
+
+Bradley Beal
+Devin Booker
+De'Aaron Fox
+Collin Sexton
+
+Cluster 33
+
+Tony Bradley
+Moses Brown
+Andre Drummond
+Isaiah Hartenstein
+DeAndre Jordan
+Jusuf Nurkić
+Tristan Thompson
+Cody Zeller
+Ivica Zubac
+
+Cluster 34
+
+Stephen Curry
+James Harden
+Damian Lillard
+
+Cluster 35
+
+Markelle Fultz
+Elfrid Payton
+T.J. Warren
+
+Cluster 36
+
+Malcolm Brogdon
+Jaylen Brown
+Paul George
+Kyrie Irving
+Jamal Murray
+Victor Oladipo
+Victor Oladipo
+John Wall
+
+Cluster 37
+
+Trey Burke
+Quinn Cook
+Jarrett Culver
+Terence Davis
+Malachi Flynn
+Frank Jackson
+Frank Kaminsky
+Jake Layman
+Saben Lee
+Kira Lewis Jr.
+Trey Lyles
+Nico Mannion
+Naji Marshall
+Caleb Martin
+Cody Martin
+Dakota Mathias
+Tyrese Maxey
+Jalen McDaniels
+E'Twaun Moore
+Abdel Nader
+J.J. Redick
+Glenn Robinson III
+Rajon Rondo
+Edmond Sumner
+Isaiah Thomas
+Moritz Wagner
+Brad Wanamaker
+
+Cluster 38
+
+Jarrett Allen
+Jarrett Allen
+Wendell Carter Jr.
+Rudy Gobert
+Richaun Holmes
+Enes Kanter
+
+Cluster 39
+
+Kyle Anderson
+Miles Bridges
+Draymond Green
+Josh Hart
+Al Horford
+Keldon Johnson
+Kyle Kuzma
+Larry Nance Jr.
+Jae'Sean Tate
+Myles Turner
+P.J. Washington
+Patrick Williams
+Delon Wright
+
+Cluster 40
+
+Al-Farouq Aminu
+Khem Birch
+Khem Birch
+Bismack Biyombo
+Taj Gibson
+Robin Lopez
+Kenyon Martin Jr.
+Nerlens Noel
+Naz Reid
+Isaiah Stewart
+Xavier Tillman Sr.
+Kenrich Williams
+Robert Williams
+
+Cluster 41
+
+LaMelo Ball
+Dillon Brooks
+Evan Fournier
+Caris LeVert
+Victor Oladipo
+Norman Powell
+Terrence Ross
+D'Angelo Russell
+
+Cluster 42
+
+D.J. Augustin
+Facundo Campazzo
+Gary Clark
+Dante Exum
+Marc Gasol
+Maurice Harkless
+Solomon Hill
+Rodney Hood
+Andre Iguodala
+Damian Jones
+Luke Kennard
+Damion Lee
+Garrison Mathews
+Wesley Matthews
+Semi Ojeleye
+Payton Pritchard
+Chasson Randle
+Mike Scott
+Tony Snell
+Matisse Thybulle
+Grant Williams
+
+Cluster 43
+
+Anthony Edwards
+Darius Garland
+Rui Hachimura
+Tyler Herro
+Jrue Holiday
+De'Andre Hunter
+Caris LeVert
+Kelly Oubre Jr.
+Chris Paul
+Kevin Porter Jr.
+Norman Powell
+Dennis Schröder
+Andrew Wiggins
+
+Cluster 44
+
+Luka Dončić
+Kevin Durant
+James Harden
+LeBron James
+Kawhi Leonard
+Pascal Siakam
+Jayson Tatum
+Karl-Anthony Towns
+
+Cluster 45
+
+Nicolas Claxton
+Daniel Gafford
+JaVale McGee
+Eric Paschall
+Hassan Whiteside
+
+Cluster 46
+
+Nickeil Alexander-Walker
+DeMarcus Cousins
+Henry Ellenson
+Yogi Ferrell
+Rudy Gay
+Jeremy Lamb
+Kevin Love
+De'Anthony Melton
+Malik Monk
+Markieff Morris
+Otto Porter
+Immanuel Quickley
+
+Cluster 47
+
+Grayson Allen
+Dāvis Bertāns
+Saddiq Bey
+Wayne Ellington
+Ty Jerome
+Cameron Johnson
+Patty Mills
+
+Cluster 48
+
+Giannis Antetokounmpo
+Joel Embiid
+
+Cluster 49
+
+Shai Gilgeous-Alexander
+Trae Young
