@@ -38,9 +38,9 @@ def app():
 
         clusterOfPlayer = kmeansCluster.labels_[indexOfYourPlayerInDataFrame]
         index = np.where(kmeansCluster.labels_ == clusterOfPlayer)[0]
-        return index,clusterOfPlayer,indexOfYourPlayerInDataFrame
+        return index
     
-    index,clusterNumber,playerIndex = getCluster(yourPlayer)
+    index = getCluster(yourPlayer)
 
     st.write("Here's the cluster:")
     st.write(df.iloc[index])
