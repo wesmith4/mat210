@@ -7,6 +7,7 @@ import numpy as np
 import streamlit as st
 from sklearn.cluster import KMeans
 import os
+from sklearn.preprocessing import normalize
 
 
 def app():
@@ -26,10 +27,12 @@ def app():
 
     # Select desired fields
     data = df[['MP','2PA','2P','3PA','3P','FTA','FT','TRB','STL','BLK','TOV']]
+    data_scaled = normalize(data)
+    data_scaled = pd.DataFrame(data_scaled,columns=data.columns)
 
     numberOfClusters = 50
     kmeansCluster = KMeans(n_clusters=numberOfClusters,random_state=42)
-    kmeansCluster.fit(data)
+    kmeansCluster.fit(data_scaled)
 
     yourPlayer = st.selectbox('Select a Player',options=df['Player'],index=128)
     
