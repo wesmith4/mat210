@@ -16,6 +16,7 @@ def app():
 
     dataFile = os.path.join(os.path.dirname(__file__),'perGameStats.csv')
     df = pd.read_csv(dataFile)
+    df = df.drop(columns=['Unnamed: 0'])
     df[['Player','handle']] = df['Player'].str.split('\\',expand=True)
     df = df[df['Tm'] != 'TOT']
     df = df.reset_index(drop=True)
