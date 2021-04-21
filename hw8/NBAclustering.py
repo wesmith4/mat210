@@ -27,7 +27,7 @@ def app():
 
     # Select desired fields
     data = df[['MP','2PA','2P','3PA','3P','FTA','FT','TRB','STL','BLK','TOV']]
-    data_scaled = normalize(data)
+    data_scaled = normalize(data,axis=0)
     data_scaled = pd.DataFrame(data_scaled,columns=data.columns)
 
     numberOfClusters = 50
